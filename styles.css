@@ -1,6 +1,13 @@
 body {
     background-color: #1d2a35;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 }
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
 .header {
     margin: 20px 0;
   }
@@ -16,4 +23,3 @@ body {
     border-radius: 10px;
     width: 100%;
   }
-
