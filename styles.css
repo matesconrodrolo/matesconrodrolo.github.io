@@ -24,6 +24,12 @@ body::-webkit-scrollbar {
     width: 100%;
   }
 
+  .content-box-2 {
+    background-color: #e7adad;
+    border-radius: 10px;
+    width: 100%;
+  }
+
 a {
   text-decoration: none;
 }
