@@ -2,6 +2,7 @@ body {
     background-color: #1d2a35;
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
+    overflow: hidden; /* Hide scrollbars */
 }
 
 body::-webkit-scrollbar {
@@ -17,13 +18,13 @@ body::-webkit-scrollbar {
     border-radius: 10px;
     padding: 20px;
   }
-  .content-box-1 {
+  .content-box-1 { /* Section block for 1 Bac */
     background-color: #aeeda8;
     border-radius: 10px;
     width: 100%;
   }
 
-  .content-box-2 {
+  .content-box-2 { /* Section block for 2 Bac */
     background-color: #e7adad;
     border-radius: 10px;
     width: 100%;
