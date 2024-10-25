@@ -3,71 +3,71 @@
 	<url>
 		<loc>https://matesconrodrolo.github.io</loc>
 		<priority>1.00</priority>
-		<lastmod>2024-10-10</lastmod>
+		<lastmod>2024-10-25</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/modelos.html</loc>
-		<priority>0.75</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-10-25</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/2bac.html</loc>
-		<priority>0.75</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-10-25</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac.html</loc>
-		<priority>0.75</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-10-13</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/2bac/gauss/prob_gauss.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-10-13</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/2bac/examenes/parc_det_moda.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-10-25</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac/trigonometria/teo_trig.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-03-17</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac/examenes/evex_modb_res.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-06-17</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac/examenes/evex_moda_res.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-06-17</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac/derivadas/prob_opti.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-06-19</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac/complejos/teo_comp.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-03-16</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac/algebra/teo_sist.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-06-19</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac/algebra/teo_ecua.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-06-19</lastmod>
 	</url>
 	<url>
 		<loc>https://matesconrodrolo.github.io/1bac/algebra/prob_gauss.pdf</loc>
-		<priority>0.25</priority>
+		<priority>1.00</priority>
 		<lastmod>2024-10-13</lastmod>
 	</url>
 </urlset>
